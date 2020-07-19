@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### I'm vijay verma.
-- 🔭 I’m currently working on open design hub and [designletter](https://designletter.co)
+- 🔭 I’m currently working on open design hub and [designletter](https://designletter.co). Check my current project in pinned section below.
 - 💬 Ask me about anything related to design 
 - 📫 How to reach me: [@realvjy](https://twitter.com/realvjy)
 
