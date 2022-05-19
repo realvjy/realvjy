@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on open design hub and [designletter](https://designletter.co). Check my current project in pinned section below.
+- 🔭 I’m currently building tools and art for metaverse. Also curate [designletter](https://designletter.co). Check my current project in pinned section below.
 - 💬 Ask me about anything related to design 
 - 📫 How to reach me: [@realvjy](https://twitter.com/realvjy)
 
