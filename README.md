@@ -5,5 +5,5 @@
 - 📫 How to reach me: [Twitter @realvjy](https://twitter.com/realvjy)
 
 - ⚡ Fun fact: All that matters to me is the work! Without that, my brain rots!
-- Fav Quote: Stay Hungry, Stay Foolish
+- 🔆 Fav Quote: Stay Hungry, Stay Foolish
 
