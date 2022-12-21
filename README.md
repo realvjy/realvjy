@@ -4,6 +4,10 @@
 - 💬 Join community to learn more about design and dev together. [Discord - Design Wizards](https://discord.gg/NXhnXYZr)
 - 📫 How to reach me: [Twitter @realvjy](https://twitter.com/realvjy)
 - 🌐 Personal website [vjy.me](https://vjy.me)
+- 💛 You can sponsor here to help build more tools and resources [GitHub Sponsor](https://github.com/sponsors/realvjy)
+- ☕ You can sponsor here to help build more tools and resources [GitHub Sponsor](https://github.com/sponsors/realvjy)
+
 
 - 🔆 Fav Quote: Stay Hungry, Stay Foolish
+
 
